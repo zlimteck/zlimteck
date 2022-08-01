@@ -2,6 +2,11 @@
    <h1>Hello, I'm <a href=" ">Zlimteck</a> <img src="https://wprock.fr/ezoimgfmt/assets.wprock.fr/emoji/joypixels/512/1f44b.png?ezimgfmt=ng%3Awebp%2Fngcb25%2Frs%3Adevice%2Frscb25-1" width="25px"> </h1>
 </div>
 
+<p align='center'>
+   <a href="https://www.linkedin.com/in/joffrey-dercourt-236174247//"><img height="30" src="https://zupimages.net/up/20/41/sbgu.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/zlimteck"><img height="30" src="https://zupimages.net/up/22/31/1amz.png"></a>&nbsp;&nbsp;
+ </p>
+
 <div align="center">
 <img src="https://zupimages.net/up/22/31/9ab0.png">
 </div>
