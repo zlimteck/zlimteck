@@ -7,6 +7,7 @@
 <a href="https://twitter.com/zlimteck"><img height="30" src="https://zupimages.net/up/22/31/1amz.png"></a>&nbsp;&nbsp;
  </p>
 
+
 <div align="center">
 <img src="https://zupimages.net/up/22/31/9ab0.png">
 </div>
@@ -16,11 +17,11 @@
 <h3>🌐 France</h3>
 </div>
 
-## <h3 align="left">GitHub Stats</h3>
+<h3 align="left">GitHub Stats</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlimteck&show_icons=true&theme=tokyonight)
 
-## <h3 align="left">DevCard</h3>
+<h3 align="left">DevCard</h3>
 
 <div align="left">
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/zlimteck/zlimteck/blob/main/devcard.svg" width="400" alt="Zlimteck Dev Card"/></a>
