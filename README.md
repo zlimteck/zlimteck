@@ -19,7 +19,7 @@
 
 <h3 align="left">GitHub Stats</h3>
 
-![Anurag's GitHub stats]([https://github-readme-stats.vercel.app](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/)/api?username=zlimteck&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zlimteck&show_icons=true&theme=tokyonight)
 
 <h3 align="left">DevCard</h3>
 
