@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-<h3>💻 Apprentice Frontend Developer</h3>
+<h3>💻 Apprentice Fullstack Web Developer</h3>
 <h3>🌐 France</h3>
 </div>
 
