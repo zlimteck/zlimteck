@@ -4,7 +4,7 @@
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/joffrey-dercourt-236174247//"><img height="30" src="https://zupimages.net/up/20/41/sbgu.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/zlimteck"><img height="30" src="https://zupimages.net/up/22/31/1amz.png"></a>&nbsp;&nbsp;
+<a href="https://x.com/zlimteck"><img height="30" src="https://zupimages.net/up/22/31/1amz.png"></a>&nbsp;&nbsp;
  </p>
 
 
