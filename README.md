@@ -20,6 +20,7 @@
 <h3 align="left">GitHub Stats</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zlimteck&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zlimteck)](https://git.io/streak-stats)
 
 <h3 align="left">DevCard</h3>
 
